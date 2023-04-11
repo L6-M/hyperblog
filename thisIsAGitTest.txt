@@ -1,0 +1,4 @@
+Hi, this is a git test.
+I'm doing this because I teally need to learn gir for my future jobs.
+I know this skill is very importatn if you're a programmer.
+So, I made this test. I hope it can help you.
