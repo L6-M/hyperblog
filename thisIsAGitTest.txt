@@ -3,6 +3,6 @@ I'm doing this because I really need to learn git for my future jobs.
 I know this skill are very importatn if you're a programmer.
 So, I made this test. This is a help :).
 
-I think this will be a challenge to accomplished. But I will try to learn it.
+I think this will be a challenge to accomplished. But, isn't. I'm enjoing learning.
 
 I have tried some lines in git, and it's not so difficult what I tought
