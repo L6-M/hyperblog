@@ -7,3 +7,4 @@ Blog de prueba. Servirá para el aprendizaje de git &amp; github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personaliades múltiples de Freddy
+* Creado por Alexey Martínez
