@@ -9,3 +9,4 @@ Blog de prueba. Servirá para el aprendizaje de git &amp; github
 * Las personaliades múltiples de Freddy
 * Creado por Alexey Martínez
 * Hecho con mis conocimientos
+* Disponible para consulta
